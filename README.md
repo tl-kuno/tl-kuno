@@ -9,13 +9,13 @@ Find me rock climbing 🧗‍♀️, skating 🛹, drawing 🎨, or playing musi
 ## Technical Skills  
 ### Proficient  
 Python  
-JavaScript
-GitHub
+JavaScript  
+GitHub  
 ### Intermediate  
 React  
-C
-MongoDB
-Command Line
+C  
+MongoDB  
+Command Line  
 Figma  
 
 ### Beginner  
