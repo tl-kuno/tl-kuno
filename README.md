@@ -30,7 +30,3 @@ Introduction to Usability
 Operating Systems
 Software Engineering  
 Web Development  
-
-## Currently Taking  
-Operating Systems  
-Software Enginnering II  
