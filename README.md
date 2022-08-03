@@ -9,11 +9,15 @@ Find me rock climbing 🧗‍♀️, skating 🛹, drawing 🎨, or playing musi
 ## Technical Skills  
 ### Proficient  
 Python  
+JavaScript
+GitHub
 ### Intermediate  
-JavaScript  
 React  
-MongoDB 
+C
+MongoDB
+Command Line
 Figma  
+
 ### Beginner  
 MySQL  
 Intel x86 Assembly
@@ -23,6 +27,7 @@ Analysis of Algorithms
 Data Structures  
 Introduction to Databases  
 Introduction to Usability  
+Operating Systems
 Software Engineering  
 Web Development  
 
