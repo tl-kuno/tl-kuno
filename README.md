@@ -7,26 +7,16 @@ Find me rock climbing 🧗‍♀️, skating 🛹, drawing 🎨, or playing musi
 ![rappelwave](https://user-images.githubusercontent.com/81701757/173610483-abb259b5-0c72-4744-a673-fe52b3d4fc03.gif)  
 
 ## Technical Skills  
-### Proficient  
 Python  
-JavaScript  
-GitHub  
-### Intermediate  
-React  
-C  
-MongoDB  
-Command Line  
-Figma  
-
-### Beginner  
-MySQL  
-Intel x86 Assembly
+JavaScript/React  
 
 ## Relevant Coursework  
 Analysis of Algorithms  
 Data Structures  
 Introduction to Databases  
+Introduction to Networks  
 Introduction to Usability  
-Operating Systems
+Operating Systems  
+Programming Language Fundamentals
 Software Engineering  
 Web Development  
