@@ -17,6 +17,6 @@ Introduction to Databases
 Introduction to Networks  
 Introduction to Usability  
 Operating Systems  
-Programming Language Fundamentals
+Programming Language Fundamentals  
 Software Engineering  
 Web Development  
