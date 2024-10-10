@@ -8,16 +8,16 @@ Find me rock climbing 🧗‍♀️, skating 🛹, drawing 🎨, or playing musi
 ![rappelwave](https://user-images.githubusercontent.com/81701757/173610483-abb259b5-0c72-4744-a673-fe52b3d4fc03.gif)  
 
 ## Technical Skills  
-JavaScript
-React
-HTML/CSS
-Java 
-SQL
-Node.js
-Python
-Git
-Figma
-Adobe Creative Suite 
+JavaScript  
+React  
+HTML/CSS  
+Java  
+SQL  
+Node.js  
+Python  
+Git  
+Figma  
+Adobe Creative Suite  
 
 ## Relevant Coursework  
 Analysis of Algorithms  
