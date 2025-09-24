@@ -13,7 +13,7 @@ Find me rock climbing 🧗‍♀️, skating 🛹, drawing 🎨, or playing musi
 JavaScript  
 TypeScript  
 React  
-AI Prompt based Coding  
+AI Agentic Coding  
 Next.js  
 HTML/CSS  
 Java  
@@ -21,5 +21,6 @@ SQL
 Node.js  
 Python  
 Git  
+Vitest  
 Figma  
 Adobe Creative Suite  
